@@ -1,0 +1,29 @@
+_repo: Apina-joka-ei-ottanut-kuollakseen_74868
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Drummond, Henry
+    birthdate: 1851
+    deathdate: 1897
+    gutenberg_agent_id: '940'
+    url: http://www.gutenberg.org/2009/agents/940
+    wikipedia: https://en.wikipedia.org/wiki/Henry_Drummond
+description: ''
+gutenberg_issued: '2024-12-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74868'
+language: fi
+pgterms:marc904: https://www.doria.fi/handle/10024/145137
+pgterms:marc905: 20241202235306drummond
+pgterms:marc906: '1919'
+pgterms:marc907: FI
+production_note: Jari Koivisto
+publication_note: '  $aPorvoo :$bWSPU, $c1919.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Apina, joka ei ottanut kuollakseen
+url: http://www.gutenberg.org/ebooks/74868
